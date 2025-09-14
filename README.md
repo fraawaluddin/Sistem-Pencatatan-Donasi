@@ -7,7 +7,7 @@ Flowchart sistem pencatatan donasi
 Jika user memilih menu yang tidak terdaftar, maka akan muncul output
 ![img alt](https://github.com/fraawaluddin/Sistem-Pencatatan-Donasi/blob/c58a0b446d7edcb4d85fefc735fcea22722d2a21/Memasukkan%20pilihan%20yang%20salah.png)
 
-Jika user memilih pilihan A maka user akan disuruh menginput nama donatur, setelah itu disuruh menginput jumlah donasi, dan program akan menambah donasi ke dalam list, lalu program akan menampilkan output donasi ditambahkan, kemudian program akan kembali ke menu utama.
+Jika user memilih pilihan A maka user akan menginput nama donatur, setelah itu disuruh menginput jumlah donasi, dan program akan menambah donasi ke dalam list, lalu program akan menampilkan output donasi ditambahkan, kemudian program akan kembali ke menu utama.
 ![img alt](https://github.com/fraawaluddin/Sistem-Pencatatan-Donasi/blob/9c9577a2dc563c1ec3b794911ab36c2a0ea5b64a/Menambahkan%20jumlah%20donasi.png)
 
 Jika user memilih pilihan B program akan menampilkan data donasi, kemudian program akan Kembalike menu utama
