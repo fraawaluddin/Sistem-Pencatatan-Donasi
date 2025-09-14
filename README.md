@@ -10,5 +10,8 @@ Output dari memasukkan pilihan yang salah
 Output dari pilihan A yaitu menambahkan nama donatur dan jumlah donasi
 ![img alt](https://github.com/fraawaluddin/Sistem-Pencatatan-Donasi/blob/9c9577a2dc563c1ec3b794911ab36c2a0ea5b64a/Menambahkan%20jumlah%20donasi.png)
 
-Output dari menampilkan list nama donatur dan jumlah donasinya
+Output dari pilihan B menampilkan list nama donatur dan jumlah donasinya
 ![img alt](https://github.com/fraawaluddin/Sistem-Pencatatan-Donasi/blob/71e6df06bf5ae3380f045c2e9f13c61dbe0e1bad/Menampilkan%20list%20donasi.png)
+
+Output dari pilihan C memilih keluar
+![img alt](https://github.com/fraawaluddin/Sistem-Pencatatan-Donasi/blob/b1c5f15d866dd11770cb012e8c878cb920c54a17/Memilih%20keluar.png)
