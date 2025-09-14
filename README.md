@@ -14,3 +14,4 @@ Jika user memilih pilihan C, program akan menampilkan output “Keluar”
 ![img alt](https://github.com/fraawaluddin/Sistem-Pencatatan-Donasi/blob/b1c5f15d866dd11770cb012e8c878cb920c54a17/Memilih%20keluar.png)
 
 Jika user memilih menu yang tidak terdaftar, maka akan muncul output
+![img alt](https://github.com/fraawaluddin/Sistem-Pencatatan-Donasi/blob/4ff51b74de813a8d45da7913a08d37aab6a2808e/Memasukkan%20pilihan%20yang%20salah.png)
